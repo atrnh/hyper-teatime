@@ -1,6 +1,6 @@
 {
   "name": "hyper-teatime",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hyper theme with pastel colors",
   "main": "index.js",
   "scripts": {
